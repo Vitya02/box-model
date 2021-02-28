@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;400&display=swap');
+*{
+    box-sizing: border-box;
+}
+div{ 
+    display: inline-block;
+}
+.two{
+    color: #898f99;
+    font-family: Montserrat;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin-top: 50px;
+} 
+.three{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    color:#0ec8cb;
+    font-family: Montserrat;
+}
+.four{
+    font-family: "PT Sans";
+    text-align: center;
+    color: #999999;
+    text-transform: uppercase;
+    width: 420px;
+    margin-left: 500px;
+}
+ .flex-container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+}
+.flex-items{
+    min-height: 100px;
+    width: 300px;
+    height: 500px;
+}
+.anchor{
+    background:#f7f7f7;
+}
+.icon{
+    background:#f7f7f7;
+}
+.eyeglass{
+    background-color: #f7f7f7;
+}
+.monitor{
+    background-color: #f7f7f7;
+}
+img {
+    margin-top: 110px;
+    margin-left: 120px;
+   display: flex;
+   justify-content: center;
+
+}
+.text-decoration{
+    text-align: center;
+    margin: 40px;
+    font-family: Montserrat;
+}
+.text_down{
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+    text-align: center;
+    font-family: "PT Sans";
+}
+.anchor:hover{
+    background-color: #0ec8cb;
+    color: white;
+}
+.text-decoration_web{
+    text-align: center;
+    margin-top: 25px;
+    font-family: Montserrat;
+}
+.text_down_web{
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+    text-align: center;
+    font-family: "PT Sans";
+}
+.text-decoration_graphics{
+    text-align: center;
+    margin-top: 50px;
+    font-family: Montserrat;
+}
+.text_down_graphics{
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+    text-align: center;
+    font-family: "PT Sans";
+}
+.text-decoration_moni{
+    text-align: center;
+    margin: 40px;
+    font-family: Montserrat;
+}
+.text_down_moni{
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+    text-align: center;
+    font-family: "PT Sans";
+}
+.icon:hover{
+    background-color: #0ec8cb;
+    color: white;
+}
+.eyeglass:hover{
+    background-color: #0ec8cb;
+    color: white;
+}
+.monitor:hover{
+    background-color: #0ec8cb;
+    color: white;
+}
+
